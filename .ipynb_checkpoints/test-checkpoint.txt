@@ -1,0 +1,15 @@
+
+
+Pegar todos os devs, contar a contribuição de cada um por projeto.
+
+A contagem de contribuição deve ser contabilizada com um range de data, ou seja, 
+pegar somente contribuições dentro de um intervalo estabelecido.
+
+A primeira barra será os devs.
+
+A partir da primeira barr, as outras serão os projetos. 
+A quantidade de barras será a quantidade de intervalo de datas estabelecidas.
+
+considerar 2019 e 2021
+
+Fonte: https://odsc.medium.com/parallel-plots-for-visualizing-relationships-with-ggplot2-and-ggforce-eac1c462d9b8
